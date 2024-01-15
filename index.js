@@ -57,4 +57,4 @@ client.user.setGame(`ڕیکلامەکە بنێرە بۆمن دایدەنێم☑�
 
 
 
-client.login("");//تۆکین لێرە دانێ
+client.login("MTE5NjA5MzE3NjUxNjIwMjU4Ng.GVyAoZ.dgciC6Ybn0RIr78tKJ5ZMLaF3uajFmRHzDfpoc");//تۆکین لێرە دانێ
